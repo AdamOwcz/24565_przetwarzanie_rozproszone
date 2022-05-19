@@ -1,0 +1,17 @@
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/bin/Debug/net6.0/RPI
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/bin/Debug/net6.0/RPI.deps.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/bin/Debug/net6.0/RPI.runtimeconfig.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/bin/Debug/net6.0/RPI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/bin/Debug/net6.0/RPI.pdb
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/bin/Debug/net6.0/System.Device.Gpio.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.csproj.AssemblyReference.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.AssemblyInfoInputs.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.AssemblyInfo.cs
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.csproj.CoreCompileInputs.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.csproj.CopyComplete
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/refint/RPI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.pdb
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/RPI.genruntimeconfig.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab6/RPI/obj/Debug/net6.0/ref/RPI.dll
